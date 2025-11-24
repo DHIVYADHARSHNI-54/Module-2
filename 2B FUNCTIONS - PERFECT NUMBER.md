@@ -22,11 +22,18 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
+#Reg.No:212223060054
+#Name:DHIVYA DHARSHNI.B
 #Add your Code Here
+def printValues(N):
+    result = [i**2 for i in range(1, N)]
+    print(result)
+
+
 
 ```
 ### OUTPUT
+<img width="1195" height="144" alt="image" src="https://github.com/user-attachments/assets/a3f459e4-65da-4150-aa52-fddb818d33c3" />
 
 ### RESULT
+Thus, the python code is written and executed successfully.
