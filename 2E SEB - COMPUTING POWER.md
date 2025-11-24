@@ -21,10 +21,10 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-a=int(input())
-b=int(input())
-c=a**b
-print(c)
+   a=int(input())
+   b=int(input())
+   c=a**b
+   print(c)
 
 ### OUTPUT
 <img width="477" height="241" alt="image" src="https://github.com/user-attachments/assets/97fbdfcf-fb0a-418e-a664-7c8ff640ab0a" />
